@@ -1,0 +1,6 @@
+module Pods_chatmvcmobile {
+  umbrella header "Pods-chatmvcmobile-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "chatmvc-mobile",
+    "slug": "chatmvc-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "chatmvc-mobile"
+}
